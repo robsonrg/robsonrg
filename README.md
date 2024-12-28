@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Robson Ricardo Giacomozzi 🇧🇷 
+A Brazilian Software Engineer passionate about technology, innovation and people and Currently is using javascript to build stuff.
 
-<!--
-**robsonrg/robsonrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experienced with:
+JavaScript, TypeScript, React, C#, NestJS, NextJS, NodeJS, Tailwind, PHP and Python
 
-Here are some ideas to get you started:
+### Actually I'm working with: 
+React, JavaScript and C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current learning: 
+Golang
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=robsonrg&color=79b8ff)
