@@ -1,14 +1,11 @@
-## Hi, I'm Robson Ricardo Giacomozzi 🇧🇷 
-A Brazilian Software Engineer passionate about technology, innovation and people and currently is using javascript to build stuff.
+## Hi, I'm Robson Ricardo 🇧🇷 
 
-### Experienced with:
-JavaScript, TypeScript, React, C#, NestJS, NextJS, NodeJS, Tailwind, PHP and Python
+Senior Software Engineer and Hands-on Tech Lead with 15+ years of experience building scalable, high-impact systems. 
+Strong background in backend architecture, complex integrations, and cloud-native solutions, especially in education and fintech-like platforms.
 
-### Actually I'm working with: 
-React, JavaScript and C#.
+Currently working mainly with Node.js and .NET/C#, experienced with AWS and distributed systems, and deepening my knowledge in Go with a focus on concurrency and performance.
 
-### Current learning: 
-Golang
+Tech stack: Node.js, .NET, Go, TypeScript, Python, SQL Server, MongoDB, Redis, AWS, Docker, RabbitMQ.
 
 <br />
 
